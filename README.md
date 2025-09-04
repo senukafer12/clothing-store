@@ -1,4 +1,4 @@
-# Vogue Jesha - Online Clothing Store
+# An Online Clothing Store
 
 A simple, modern, responsive e-commerce website for a clothing store featuring various fashion collections.
 
